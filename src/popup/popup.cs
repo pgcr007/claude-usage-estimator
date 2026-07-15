@@ -1,0 +1,15 @@
+body{
+
+width:300px;
+
+padding:20px;
+
+font-family:Arial;
+
+}
+
+h2{
+
+color:#ff9800;
+
+}
